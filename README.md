@@ -55,7 +55,7 @@ npm run dev
 !(![Screenshot 2024-12-19 081207](https://github.com/user-attachments/assets/40569107-213e-4267-941e-54211b9e6e3a)
 )
 
-### Deliveried Page Screenshot 🍕
+### Delivery Page Screenshot 🍕
 !(![Screenshot 2024-12-19 081241](https://github.com/user-attachments/assets/de4650f3-fd16-47c4-a468-e713e5dfad3b)
 )
 
