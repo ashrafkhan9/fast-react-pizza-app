@@ -40,23 +40,23 @@ npm run dev
 
 📸 Screenshots 
 ### Homepage Screenshot 🏠
-![Homepage Screenshot](![Screenshot 2024-12-19 080722](https://github.com/user-attachments/assets/14681de8-3af1-451a-a8fa-008d029a8a7d)
+!(![Screenshot 2024-12-19 080722](https://github.com/user-attachments/assets/14681de8-3af1-451a-a8fa-008d029a8a7d)
 )
 
 ### Menu Page Screenshot 🍕
-![Menu Page Screenshot](![Screenshot 2024-12-19 080830](https://github.com/user-attachments/assets/0188f80c-3821-4018-9b2c-fda59d81a3c6)
+!(![Screenshot 2024-12-19 080830](https://github.com/user-attachments/assets/0188f80c-3821-4018-9b2c-fda59d81a3c6)
 )
 
 ### Cart Page Screenshot 🍕
-![Cart Page Screenshot](![Screenshot 2024-12-19 080848](https://github.com/user-attachments/assets/afc2ca92-aa81-4585-88b5-54808ba62a86)
+!(![Screenshot 2024-12-19 080848](https://github.com/user-attachments/assets/afc2ca92-aa81-4585-88b5-54808ba62a86)
 )
 
 ### Form Page Screenshot 🍕
-![Form Page Screenshot](![Screenshot 2024-12-19 081207](https://github.com/user-attachments/assets/40569107-213e-4267-941e-54211b9e6e3a)
+!(![Screenshot 2024-12-19 081207](https://github.com/user-attachments/assets/40569107-213e-4267-941e-54211b9e6e3a)
 )
 
 ### Deliveried Page Screenshot 🍕
-![Deliveried Page Screenshot](![Screenshot 2024-12-19 081241](https://github.com/user-attachments/assets/de4650f3-fd16-47c4-a468-e713e5dfad3b)
+!(![Screenshot 2024-12-19 081241](https://github.com/user-attachments/assets/de4650f3-fd16-47c4-a468-e713e5dfad3b)
 )
 
 🌟 Feedback
