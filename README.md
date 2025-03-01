@@ -38,6 +38,8 @@ npm install
 Start the development server 🚀
 npm run dev
 
+LIVE LINK: https://fast-react-pizaa-app.netlify.app/
+
 📸 Screenshots 
 ### Homepage Screenshot 🏠
 !(![Screenshot 2024-12-19 080722](https://github.com/user-attachments/assets/14681de8-3af1-451a-a8fa-008d029a8a7d)
